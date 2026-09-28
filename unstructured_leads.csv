@@ -1,0 +1,7 @@
+Lead_ID,Corporate_Email,Bounce_Status
+101,ceo@alpha.com,Active
+102,info@beta.io,Active
+103,info@beta.io,Active
+104,sales@gamma.net,Bounce
+105,NaN,Active
+106,contact@delta.tech,Active
